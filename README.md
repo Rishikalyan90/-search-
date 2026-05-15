@@ -269,8 +269,9 @@ footer{
 <header>
 
     <h1 class="logo">SOLO SEARCH</h1>
+    
 
-    <p class="sub">UNIVERSAL AI SEARCH ENGINE</p>
+
 
     <div class="searchWrap">
 
